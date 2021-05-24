@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <LangVersion>9</LangVersion>
+        <TargetFrameworks>net472;net5.0</TargetFrameworks>
+        <RootNamespace>FastExpressionCompiler</RootNamespace>
+    </PropertyGroup>
+
+</Project>
